@@ -1,6 +1,7 @@
 # FAM
 Food As Medicine
 
+   * https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444
    * https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption
    * https://www.foxnews.com/food-drink/teen-junk-food-diet-blind
    * https://www.newsweek.com/teenager-blind-fries-chips-white-bread-sausages-ham-elementary-school-1456937
