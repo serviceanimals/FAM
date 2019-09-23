@@ -2,7 +2,7 @@
 
 # [FaM](https://github.com/serviceanimals/FaM)
 
-Food As Medicine
+[Food As Medicine](https://serviceanimals.github.io/FaM/)
 
    * [https://www.foxnews.com/food-drink/teen-junk-food-diet-blind](https://www.foxnews.com/food-drink/teen-junk-food-diet-blind)
    * [https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption](https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption)
