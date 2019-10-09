@@ -11,5 +11,5 @@
    * [https://www.nydailynews.com/news/world/ny-pringles-teen-blind-fries-white-bread-picky-eater-20190903-qara6ajowje37oqiseseltx3h4-story.html](https://www.nydailynews.com/news/world/ny-pringles-teen-blind-fries-white-bread-picky-eater-20190903-qara6ajowje37oqiseseltx3h4-story.html)
    * [https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444](https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444)
    * [https://www.thesun.co.uk/news/9854098/diet-fizzy-drinks-increase-risk-heart-attack-deadly-stroke-death](https://www.thesun.co.uk/news/9854098/diet-fizzy-drinks-increase-risk-heart-attack-deadly-stroke-death)
-
-<!-- EOF README.md -->
+   * [https://nypost.com/2019/10/08/more-patients-turning-to-text-message-diagnosis-for-everyday-ailments/](https://nypost.com/2019/10/08/more-patients-turning-to-text-message-diagnosis-for-everyday-ailments/)
+<!--README.md EOF-->
