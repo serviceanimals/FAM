@@ -12,4 +12,5 @@
    * [https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444](https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444)
    * [https://www.thesun.co.uk/news/9854098/diet-fizzy-drinks-increase-risk-heart-attack-deadly-stroke-death](https://www.thesun.co.uk/news/9854098/diet-fizzy-drinks-increase-risk-heart-attack-deadly-stroke-death)
    * [https://nypost.com/2019/10/08/more-patients-turning-to-text-message-diagnosis-for-everyday-ailments/](https://nypost.com/2019/10/08/more-patients-turning-to-text-message-diagnosis-for-everyday-ailments/)
+   * [https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-age](https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-age)
 <!--README.md EOF-->
