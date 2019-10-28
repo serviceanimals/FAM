@@ -4,6 +4,7 @@
 
 [Food As Medicine](https://serviceanimals.github.io/FaM/)
 
+Food NOT as medicine links:
    * [https://www.foxnews.com/food-drink/teen-junk-food-diet-blind](https://www.foxnews.com/food-drink/teen-junk-food-diet-blind)
    * [https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption](https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption)
    * [https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago](https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago)
