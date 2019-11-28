@@ -5,8 +5,6 @@
 [Food As Medicine](https://serviceanimals.github.io/FaM/)
 
 Food as medicine links:
-   * [https://www.foxnews.com/science/more-than-100000-cancer-cases-could-be-caused-by-contaminants-in-tap-water-study-finds](https://www.foxnews.com/science/more-than-100000-cancer-cases-could-be-caused-by-contaminants-in-tap-water-study-finds)
-
    * [https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago](https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago)
 
    * [https://nypost.com/2019/10/08/more-patients-turning-to-text-message-diagnosis-for-everyday-ailments/](https://nypost.com/2019/10/08/more-patients-turning-to-text-message-diagnosis-for-everyday-ailments/)
@@ -14,6 +12,7 @@ Food as medicine links:
    * [https://www.foxnews.com/tech/russian-cows-get-goggles-virtual-reality](https://www.foxnews.com/tech/russian-cows-get-goggles-virtual-reality)
 
 Food NOT as medicine links:
+   * [https://www.foxnews.com/science/more-than-100000-cancer-cases-could-be-caused-by-contaminants-in-tap-water-study-finds](https://www.foxnews.com/science/more-than-100000-cancer-cases-could-be-caused-by-contaminants-in-tap-water-study-finds)
    * [https://www.foxnews.com/food-drink/teen-junk-food-diet-blind](https://www.foxnews.com/food-drink/teen-junk-food-diet-blind)
    * [https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption](https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption)
    * [https://www.newsweek.com/teenager-blind-fries-chips-white-bread-sausages-ham-elementary-school-1456937](https://www.newsweek.com/teenager-blind-fries-chips-white-bread-sausages-ham-elementary-school-1456937)
