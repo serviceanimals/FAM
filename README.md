@@ -9,9 +9,6 @@ Hippocrates circa 400 BC
 
 [Food As Medicine](https://serviceanimals.github.io/FaM/)
 
-Food as medicine links:
-   * [https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago](https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago)
-
 Food NOT as medicine links:
    * [https://nypost.com/2020/04/18/americas-junk-food-diet-makes-us-more-vulnerable-to-coronavirus/](https://nypost.com/2020/04/18/americas-junk-food-diet-makes-us-more-vulnerable-to-coronavirus/)
    * [https://www.foxnews.com/science/more-than-100000-cancer-cases-could-be-caused-by-contaminants-in-tap-water-study-finds](https://www.foxnews.com/science/more-than-100000-cancer-cases-could-be-caused-by-contaminants-in-tap-water-study-finds)
@@ -22,4 +19,7 @@ Food NOT as medicine links:
    * [https://m.sfgate.com/bayarea/article/Dog-money-diaries-cost-pet-owner-SF-expensive-14554082.php](https://m.sfgate.com/bayarea/article/Dog-money-diaries-cost-pet-owner-SF-expensive-14554082.php)
    * [https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444](https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444)
    * [https://www.thesun.co.uk/news/9854098/diet-fizzy-drinks-increase-risk-heart-attack-deadly-stroke-death](https://www.thesun.co.uk/news/9854098/diet-fizzy-drinks-increase-risk-heart-attack-deadly-stroke-death)
+
+Food as medicine link:
+   * [https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago](https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago)
 <!--README.md EOF-->
