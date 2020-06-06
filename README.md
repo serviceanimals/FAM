@@ -2,7 +2,7 @@
 
 # [FaM](https://github.com/serviceanimals/FaM)
 
-"A dog's nose knows"
+"A dog's nose knows."
 
 "Let food be thy medicine and medicine be thy food."	
 Hippocrates circa 400 BC 
