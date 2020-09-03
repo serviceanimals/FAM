@@ -21,7 +21,7 @@ Food NOT as medicine links:
    * [https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444](https://www.slashgear.com/public-warned-to-avoid-all-pig-ear-treats-over-risk-to-dogs-and-owners-08590444)
    * [https://www.thesun.co.uk/news/9854098/diet-fizzy-drinks-increase-risk-heart-attack-deadly-stroke-death](https://www.thesun.co.uk/news/9854098/diet-fizzy-drinks-increase-risk-heart-attack-deadly-stroke-death)
 
-Food as medicine link:
+Food as medicine links:
    * [https://www.foxnews.com/health/honey-cold-symptoms-study](https://www.foxnews.com/health/honey-cold-symptoms-study)
    > Honey outperforms antibiotics for cough, cold symptoms, study says
    * [https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago](https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago)
