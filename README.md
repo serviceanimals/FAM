@@ -11,6 +11,7 @@ Hippocrates circa 400 BC
 
 Food NOT as medicine links:
    * [https://www.foxnews.com/science/more-than-100000-cancer-cases-could-be-caused-by-contaminants-in-tap-water-study-finds](https://www.foxnews.com/science/more-than-100000-cancer-cases-could-be-caused-by-contaminants-in-tap-water-study-finds)
+   > "The latest research shows that contaminants present in the water at [] concentrations – perfectly legal – can still harm human health."
    * [https://www.foxnews.com/food-drink/teen-junk-food-diet-blind](https://www.foxnews.com/food-drink/teen-junk-food-diet-blind)
    * [https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption](https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption)
    * [https://www.newsweek.com/teenager-blind-fries-chips-white-bread-sausages-ham-elementary-school-1456937](https://www.newsweek.com/teenager-blind-fries-chips-white-bread-sausages-ham-elementary-school-1456937)
@@ -23,6 +24,6 @@ Food NOT as medicine links:
 
 Food as medicine links:
    * [https://www.foxnews.com/health/honey-cold-symptoms-study](https://www.foxnews.com/health/honey-cold-symptoms-study)
-   > Honey outperforms antibiotics for cough, cold symptoms, study says
+   > "Honey outperforms antibiotics for cough, cold symptoms, study says"
    * [https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago](https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago)
 <!--README.md EOF-->
