@@ -15,7 +15,7 @@ Food NOT as medicine links:
    * [https://www.foxnews.com/food-drink/teen-junk-food-diet-blind](https://www.foxnews.com/food-drink/teen-junk-food-diet-blind)
    > "Diagnosed with nutritional optic neuropathy, a result of nutritional deficiencies."
    * [https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption](https://www.foxnews.com/health/raw-beef-recalled-deemed-unfit-for-human-consumption)
-   > Nearly 25,000 pounds of beef were recalled last week after food inspectors deemed it “unfit for human consumption.”
+   > "Nearly 25,000 pounds of beef were recalled last week after food inspectors deemed it “unfit for human consumption.”"
    * [https://www.newsweek.com/teenager-blind-fries-chips-white-bread-sausages-ham-elementary-school-1456937](https://www.newsweek.com/teenager-blind-fries-chips-white-bread-sausages-ham-elementary-school-1456937)
    * [https://www.nydailynews.com/news/world/ny-pringles-teen-blind-fries-white-bread-picky-eater-20190903-qara6ajowje37oqiseseltx3h4-story.html](https://www.nydailynews.com/news/world/ny-pringles-teen-blind-fries-white-bread-picky-eater-20190903-qara6ajowje37oqiseseltx3h4-story.html)
    * [https://www.nypost.com/2020/04/18/americas-junk-food-diet-makes-us-more-vulnerable-to-coronavirus/](https://www.nypost.com/2020/04/18/americas-junk-food-diet-makes-us-more-vulnerable-to-coronavirus/)
