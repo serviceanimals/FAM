@@ -5,6 +5,7 @@
 "A dog's nose knows."
 
 "Αφήστε το φαγητό να είναι το φάρμακό σας και το φάρμακο να είναι η τροφή σας."
+Ο Ιπποκράτης γύρω στο 400 π.Χ
 
 "Let food be thy medicine and medicine be thy food."	
 Hippocrates circa 400 BC 
@@ -30,4 +31,4 @@ Food as medicine links:
    * [https://www.foxnews.com/health/honey-cold-symptoms-study](https://www.foxnews.com/health/honey-cold-symptoms-study)
    > "Honey outperforms antibiotics for cough, cold symptoms, study says"
    * [https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago](https://www.foxnews.com/science/ancient-humans-bone-marrow-bones-cans-ago)
-<!--README.md EOF-->
+<!--serviceanimals/FaM/README.md EOF-->
