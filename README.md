@@ -4,6 +4,8 @@
 
 "A dog's nose knows."
 
+"Αφήστε το φαγητό να είναι το φάρμακό σας και το φάρμακο να είναι η τροφή σας."
+
 "Let food be thy medicine and medicine be thy food."	
 Hippocrates circa 400 BC 
 
